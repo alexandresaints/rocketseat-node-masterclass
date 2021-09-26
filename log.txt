@@ -1,0 +1,8 @@
+{"free":"4039 MB","total":"10115 MB","usage":"39%"}
+{"free":"4039 MB","total":"10115 MB","usage":"39%"}
+{"free":"4037 MB","total":"10115 MB","usage":"39%"}
+{"free":"4031 MB","total":"10115 MB","usage":"39%"}
+{"free":"4036 MB","total":"10115 MB","usage":"39%"}
+{"free":"4046 MB","total":"10115 MB","usage":"40%"}
+{"free":"4033 MB","total":"10115 MB","usage":"39%"}
+{"free":"4039 MB","total":"10115 MB","usage":"39%"}
